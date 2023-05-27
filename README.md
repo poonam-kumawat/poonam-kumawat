@@ -29,4 +29,4 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=poonam-kumawat&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=poonam-kumawat)](https://github.com/poonam-kumawat/github-profile-trophy)
