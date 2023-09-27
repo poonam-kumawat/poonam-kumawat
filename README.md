@@ -20,10 +20,11 @@
 
 
 <p align="center">
-<img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=poonam-kumawat&show_icons=true&locale=en" alt="poonam-kumawat" />
+<img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=poonam-kumawat&show_icons=true&theme=radical" alt="poonam-kumawat" />
 
 <img width="430" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poonam-kumawat&" alt="poonam-kumawat" />
 </p>
+
 
 
 
