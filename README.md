@@ -1,4 +1,4 @@
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=poonam)](https://holopin.io/@poonam)
+[![@rphi's Holopin board](https://holopin.me/poonam)](https://holopin.io/@poonam)
 
 <h1 align="center">Hi 👋, I'm Poonam Kumawat</h1>
 <h3 align="center">A passionate Learner from India</h3>
